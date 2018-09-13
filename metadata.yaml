@@ -1,0 +1,41 @@
+_repo: The-Principles-of-Chemistry-Volume-I_51326
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kamensky, George
+    gutenberg_agent_id: '47764'
+    url: http://www.gutenberg.org/2009/agents/47764
+creator:
+  author:
+    agent_name: Mendeleyev, Dmitry Ivanovich
+    aliases:
+    - Mendeleev, Dmitri Ivanovich
+    - Менделеев, Дмитрий Иванович
+    - Mendeleyev, D. I.
+    birthdate: 1834
+    deathdate: 1907
+    gutenberg_agent_id: '46359'
+    url: http://www.gutenberg.org/2009/agents/46359
+    wikipedia: https://en.wikipedia.org/wiki/Dmitri_Mendeleev
+  editor:
+    agent_name: Lawson, T. A. (Thomas Atkinson)
+    alias: Lawson, Thomas Atkinson
+    gutenberg_agent_id: '32959'
+    url: http://www.gutenberg.org/2009/agents/32959
+description: ''
+gutenberg_issued: '2016-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argon'
+- !lcsh 'Periodic law'
+- !lcc 'QD'
+- !lcsh 'Chemistry'
+- GITenberg
+title: The Principles of Chemistry, Volume I
+url: http://www.gutenberg.org/ebooks/51326
